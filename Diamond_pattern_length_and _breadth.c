@@ -5,11 +5,7 @@ void main(){
     printf("Enter three integers(Number, width, and length) : ");
     int a, b, c;
     scanf("%d %d %d", &a, &b, &c);
-   // pat1(a,b);
-    //pat2(a,b);
     pat1(a,b,c);
-    //pat2(a);
-
 }
 
 
